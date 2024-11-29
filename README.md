@@ -125,4 +125,5 @@ We welcome contributions from the community! Feel free to fork the repository, m
 
 ## 🔰 License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License 
+2024
